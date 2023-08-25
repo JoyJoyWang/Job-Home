@@ -1,6 +1,8 @@
 # Job-Home
 It's a desktop application for students to find jobs and accommodations and learn about careers. It's also a platform for HRs and the owners of houses to upload their resources and chances.
 
+language: C#, SQL server
+
 ## 1. Intro
 
 ### 1. Project background
