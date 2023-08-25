@@ -1,0 +1,207 @@
+C:\Users\Zhuxuanzi Wang\AppData\Local\Temporary Projects\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\Zhuxuanzi Wang\AppData\Local\Temporary Projects\finalproject\bin\Debug\finalproject.exe
+C:\Users\Zhuxuanzi Wang\AppData\Local\Temporary Projects\finalproject\bin\Debug\finalproject.pdb
+C:\Users\Zhuxuanzi Wang\AppData\Local\Temporary Projects\finalproject\obj\Debug\finalproject.csprojResolveAssemblyReference.cache
+C:\Users\Zhuxuanzi Wang\AppData\Local\Temporary Projects\finalproject\obj\Debug\Geo.resources
+C:\Users\Zhuxuanzi Wang\AppData\Local\Temporary Projects\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\Zhuxuanzi Wang\AppData\Local\Temporary Projects\finalproject\obj\Debug\finalproject.csproj.GenerateResource.Cache
+C:\Users\Zhuxuanzi Wang\AppData\Local\Temporary Projects\finalproject\obj\Debug\finalproject.exe
+C:\Users\Zhuxuanzi Wang\AppData\Local\Temporary Projects\finalproject\obj\Debug\finalproject.pdb
+F:\数据库（新文件夹）\finalproject\finalproject\bin\Debug\finalproject.exe.config
+F:\数据库（新文件夹）\finalproject\finalproject\obj\Debug\finalproject.exe
+F:\数据库（新文件夹）\finalproject\finalproject\obj\Debug\finalproject.pdb
+F:\数据库（新文件夹）\finalproject\finalproject\bin\Debug\finalproject.exe
+F:\数据库（新文件夹）\finalproject\finalproject\bin\Debug\finalproject.pdb
+F:\数据库（新文件夹）\finalproject\finalproject\bin\Debug\CSkin.dll
+F:\数据库（新文件夹）\finalproject\finalproject\bin\Debug\LiveCharts.WinForms.dll
+F:\数据库（新文件夹）\finalproject\finalproject\bin\Debug\CSkin.xml
+F:\数据库（新文件夹）\finalproject\finalproject\bin\Debug\LiveCharts.WinForms.pdb
+F:\数据库（新文件夹）\finalproject\finalproject\bin\Debug\LiveCharts.WinForms.xml
+F:\数据库（新文件夹）\finalproject\finalproject\obj\Debug\finalproject.csprojResolveAssemblyReference.cache
+F:\数据库（新文件夹）\finalproject\finalproject\obj\Debug\finalproject.Form1.resources
+F:\数据库（新文件夹）\finalproject\finalproject\obj\Debug\finalproject.Form2.resources
+F:\数据库（新文件夹）\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+F:\数据库（新文件夹）\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.Cache
+F:\数据库（新文件夹）\finalproject\finalproject\obj\Debug\finalproject.Form3.resources
+F:\数据库（新文件夹）\finalproject\finalproject\obj\Debug\finalproject.Form4.resources
+F:\数据库（新文件夹）\finalproject\finalproject\obj\Debug\finalproject.denglu.resources
+F:\数据库（新文件夹）\finalproject\finalproject\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\数据库（新文件夹）\finalproject\finalproject\obj\Debug\finalproject.Form5.resources
+F:\数据库（新文件夹）\finalproject\finalproject\obj\Debug\finalproject.Form6.resources
+F:\数据库（新文件夹）\finalproject\finalproject\obj\Debug\finalproject.Form8.resources
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\bin\Debug\CSkin.xml
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\obj\Debug\finalproject.csprojResolveAssemblyReference.cache
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\obj\Debug\finalproject.denglu.resources
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\obj\Debug\finalproject.Form1.resources
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\obj\Debug\finalproject.Form2.resources
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\obj\Debug\finalproject.Form3.resources
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\obj\Debug\finalproject.Form4.resources
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\obj\Debug\finalproject.Form5.resources
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\obj\Debug\finalproject.Form6.resources
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\obj\Debug\finalproject.Form8.resources
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.Cache
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\obj\Debug\finalproject.Form10.resources
+C:\Users\yi\Desktop\finalproject\finalproject\finalproject\obj\Debug\finalproject.Form9.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\bin\Debug\finalproject.exe.config
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.exe
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.pdb
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\bin\Debug\finalproject.exe
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\bin\Debug\finalproject.pdb
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\bin\Debug\CSkin.xml
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\bin\Debug\LiveCharts.WinForms.pdb
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\bin\Debug\LiveCharts.WinForms.xml
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.csprojResolveAssemblyReference.cache
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.denglu.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.Form1.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.Form10.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.Form11.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.Form12.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.Form13.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.Form14.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.Form15.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.Form16.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.Form17.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.Form18.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.Form2.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.Form3.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.Form4.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.Form5.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.Form6.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.Form7.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.Form8.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.Form9.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+F:\数据库（新文件夹）\finalproject1\finalproject1\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.Cache
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\bin\Debug\CSkin.xml
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.csprojResolveAssemblyReference.cache
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.denglu.resources
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.Form1.resources
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.Form13.resources
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.rresume.resources
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.Form18.resources
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.Form2.resources
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.Form3.resources
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.Form4.resources
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.Form5.resources
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.Form6.resources
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.Form7.resources
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.Form8.resources
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.Form9.resources
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.Cache
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.hchoosing.resources
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.hinsert.resources
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.hupdate.resources
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.rchoosing.resources
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.rinsert.resources
+C:\Users\11833\Desktop\新建文件夹\finalproject\finalproject\obj\Debug\finalproject.rupdate.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\bin\Debug\CSkin.xml
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.csprojResolveAssemblyReference.cache
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.denglu.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.Form1.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.hchoosing.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.hinsert.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.hupdate.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.Form13.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.rchoosing.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.rinsert.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.rupdate.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.rresume.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.Form18.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.Form2.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.Form3.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.Form4.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.Form5.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.Form6.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.Form7.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.Form8.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.Form9.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\Zhuxuanzi Wang\Desktop\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.Cache
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\bin\Debug\finalproject.exe.config
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.exe
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.pdb
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\bin\Debug\finalproject.exe
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\bin\Debug\finalproject.pdb
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\bin\Debug\CSkin.xml
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\bin\Debug\LiveCharts.WinForms.pdb
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\bin\Debug\LiveCharts.WinForms.xml
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.csprojResolveAssemblyReference.cache
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.denglu.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form1.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.hchoosing.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.hinsert.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.hupdate.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form13.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.rchoosing.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.rinsert.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.rupdate.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.rresume.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form18.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form2.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form3.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form4.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form5.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form6.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form7.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form8.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form9.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+F:\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.Cache
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\bin\Debug\finalproject.exe.config
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\bin\Debug\finalproject.exe
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\bin\Debug\finalproject.pdb
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\bin\Debug\CSkin.xml
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\bin\Debug\LiveCharts.WinForms.pdb
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\bin\Debug\LiveCharts.WinForms.xml
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.csproj.AssemblyReference.cache
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.denglu.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form1.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.hchoosing.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.hinsert.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.hupdate.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form13.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.rchoosing.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.rinsert.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.rupdate.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.rresume.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form18.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form2.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form3.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form4.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form5.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form6.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form7.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form8.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Form9.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.csproj.CopyComplete
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.exe
+D:\WZXZ\数据库（新文件夹）\1752509汪祝璇子-1950620廖宇杰-1950010王奕程-“毕业季”一站式解决平台\finalproject\finalproject\obj\Debug\finalproject.pdb
