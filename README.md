@@ -31,41 +31,41 @@ The graduation season takes the majority of graduates as the user group and simu
 
   According to program design needs and data demand analysis, make the following E-R diagram:
 
-![img](D:/WZXZ/%E6%95%B0%E6%8D%AE%E5%BA%93%EF%BC%88%E6%96%B0%E6%96%87%E4%BB%B6%E5%A4%B9%EF%BC%89/Job_Home/pic/E-R%20diagram.png)
+![img](./pic/clip_image002.png)
 
 ### 3.3. Logic pattern design
 
 Convert E-R diagram to relational schema:
-Listing (<u>serial number</u>, longitude, latitude, name, rent, apartment type, area, fine decoration, elevator, parking space, gas)
-Landlord (<u>landlord account number</u>, password, name, phone number)
-Property ownership (<u>serial number</u>, <u>landlord account number</u>)
-Job (<u>company name</u>, <u>position</u>, <u>address</u>, benefits, work area and county, salary, education, major, job content, work experience)
-Company (<u>company name</u>, password)
-User (<u>user account</u>, password, university, major, real name, gender, graduation year)
-Article (<u>title</u>, content, author, likes)
-Resume (<u>company name</u>, <u>position</u>, <u>address</u>, <u>user account</u>, resume)
-Information (l<u>andlord account</u>, <u>user account</u>, <u>time</u>, message content, sender)
-favorite(<u>user_account</u>, <u>title</u>)
+Listing (<ins>serial number</ins>, longitude, latitude, name, rent, apartment type, area, fine decoration, elevator, parking space, gas)
+Landlord (<ins>landlord account number</ins>, password, name, phone number)
+Property ownership (<ins>serial number</ins>, <ins>landlord account number</ins>)
+Job (<ins>company name</ins>, <ins>position</ins>, <ins>address</ins>, benefits, work area and county, salary, education, major, job content, work experience)
+Company (<ins>company name</ins>, password)
+User (<ins>user account</ins>, password, university, major, real name, gender, graduation year)
+Article (<ins>title</ins>, content, author, likes)
+Resume (<ins>company name</ins>, <ins>position</ins>, <ins>address</ins>, <ins>user account</ins>, resume)
+Information (l<ins>andlord account</ins>, <ins>user account</ins>, <ins>time</ins>, message content, sender)
+favorite(<ins>user_account</ins>, <ins>title</ins>)
 
-房源（<u>序号</u>，经度，纬度，名称，租金，户型，面积，精装修，电梯，车位，燃气）
+房源（<ins>序号</ins>，经度，纬度，名称，租金，户型，面积，精装修，电梯，车位，燃气）
 
-房东（<u>房东账号</u>，密码，姓名，电话）
+房东（<ins>房东账号</ins>，密码，姓名，电话）
 
-房产拥有（<u>序号</u>，<u>房东账号</u>）
+房产拥有（<ins>序号</ins>，<ins>房东账号</ins>）
 
-工作（<u>公司名</u>，<u>岗位</u>，<u>地址</u>，福利，工作区县，薪资，学历，专业，工作内容，工作经验）
+工作（<ins>公司名</ins>，<ins>岗位</ins>，<ins>地址</ins>，福利，工作区县，薪资，学历，专业，工作内容，工作经验）
 
-公司（<u>公司名</u>，密码）
+公司（<ins>公司名</ins>，密码）
 
-用户(<u>用户账号</u>，密码，大学，专业，真实姓名，性别，毕业年份)
+用户(<ins>用户账号</ins>，密码，大学，专业，真实姓名，性别，毕业年份)
 
-文章（<u>标题</u>，内容，作者，赞数）
+文章（<ins>标题</ins>，内容，作者，赞数）
 
-投递简历（<u>公司名</u>，<u>岗位</u>，<u>地址</u>，<u>用户账号</u>，简历）
+投递简历（<ins>公司名</ins>，<ins>岗位</ins>，<ins>地址</ins>，<ins>用户账号</ins>，简历）
 
-信息（<u>房东账号</u>，<u>用户账号</u>，<u>时间</u>，信息内容，发送方）
+信息（<ins>房东账号</ins>，<ins>用户账号</ins>，<ins>时间</ins>，信息内容，发送方）
 
-收藏（<u>用户账号</u>，<u>标题</u>）
+收藏（<ins>用户账号</ins>，<ins>标题</ins>）
 
 ### 3.4. Standardized processing
 
@@ -269,7 +269,7 @@ GO
 
 ```
 
-![img](D:/WZXZ/%E6%95%B0%E6%8D%AE%E5%BA%93%EF%BC%88%E6%96%B0%E6%96%87%E4%BB%B6%E5%A4%B9%EF%BC%89/Job_Home/pic/relational%20tables.png)
+![img](./pic/clip_image002-1693000175827-2.png)
 
 #### 3.6 Trigger
 
